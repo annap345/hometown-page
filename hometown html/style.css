@@ -251,3 +251,12 @@ video {
 }
 
 }
+
+.sign {
+    text-align: center;
+    font-family: var(--def-font);
+    padding: 5px;
+    background-color: rgb(231, 217, 173, 0.5);
+    border-radius: 5px;
+}
+
